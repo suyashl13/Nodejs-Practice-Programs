@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-practice-programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyashl13/Nodejs-Practice-Programs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyashl13/Nodejs-Practice-Programs/issues"
+  },
+  "homepage": "https://github.com/suyashl13/Nodejs-Practice-Programs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
